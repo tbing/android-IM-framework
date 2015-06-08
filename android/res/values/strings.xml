@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">IM</string>
+    <string name="hint">input text</string>
+    <string name="button">send</string>
+    <string name="add">add</string>
+    <string name="speak">Please Speak Now</string>
+</resources>
